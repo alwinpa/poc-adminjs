@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "coverfox",
+    "password": null,
+    "database": "adminjs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "coverfox",
+    "password": null,
+    "database": "adminjs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "coverfox",
+    "password": null,
+    "database": "adminjs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
